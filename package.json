@@ -1,0 +1,20 @@
+{
+  "name": "FinalProject",
+  "version": "1.0.0",
+  "description": "Project 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedoubleo22/FinalProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thedoubleo22/FinalProject/issues"
+  },
+  "homepage": "https://github.com/thedoubleo22/FinalProject#readme"
+}
